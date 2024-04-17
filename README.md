@@ -6,7 +6,7 @@ The training with PPO of [stable-baselines3](https://stable-baselines3.readthedo
 
 ## Requirements
 
-To run this repo the following library are necessary: [stable-baselines3](https://stable-baselines3.readthedocs.io/en/master/index.html), [Gymansium](https://github.com/Farama-Foundation/Gymnasium), [Tensorboard](https://www.tensorflow.org/tensorboard)
+To run this repo the following libraries are necessary: [stable-baselines3](https://stable-baselines3.readthedocs.io/en/master/index.html), [Gymansium](https://github.com/Farama-Foundation/Gymnasium), [Tensorboard](https://www.tensorflow.org/tensorboard)
 
 ## Train Model
 The model is trained using [trainCartPole.py](trainCartPole.py) and [trainPendulum.py](trainPendulum.py) 
