@@ -8,7 +8,7 @@ from stable_baselines3          import PPO
 #model_str = "ppo_cartpole10K"
 
 from trainPendulum import PendulumEnv as Myenv
-model_str = "ppo_pendulum800k"
+model_str = "ppo_pendulum800K"
 
 if __name__ == '__main__':
     
